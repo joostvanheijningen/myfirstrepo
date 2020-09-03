@@ -1,2 +1,3 @@
 # myfirstrepo
-Hello World
+Hello World, this is my first repo.
+
